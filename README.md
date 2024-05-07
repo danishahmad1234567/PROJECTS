@@ -1,1 +1,1 @@
-# projects
+# projects PYTHON PROJECT,SQL PROJECT
